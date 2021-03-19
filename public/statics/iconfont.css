@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1616135028731'); /* IE9 */
+  src: url('iconfont.eot?t=1616135028731#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP4AAsAAAAACBAAAAOpAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDRIMWATYCJAMQCwoABCAFhG0HTRsNB8gekiSQQIIEAABSohni4WssfX9377IhVEBggXR4fIGViUqNqxGAxlazrr753rMm7UKYkxZmcVAxyWZfNulLpyvo6yB9rngQvlnd9f9zOW1aAvNblsvdNTaNvZ6PCRgFHNDYSzAroIC4YeyqpTTo9QQ6jNuOOI1LEQE9Be4WiDc0JQN6KblSkxqq0CwZW8RboK2me8EMAB7878c/4BV6JI0M9714FqsEET+5jyeFlf8rwV4XB7jjaSFPImMVUIgXpfpHhKF/lVCH+Rst+4CqSvzk3jd/PPn/P+TtRVKJRN8/XiKacHIX2IWBzE+OcWJpM2QR/D6ZJMELUVR3lHAPgC8AU0a9UUjS0rCDvV2JSHTIympwzFosGrS3Hrq8SSru6zM0fHfWQSIdsCVGTmyUSPr7bY5cKlldFVeuiI41b71/n3jwQNqyGnr3QWTzRMD63mabjTemDFZWRJWr4r4W2wcPiPv3S+7cb14JsdvqLbxSKUZ9R22puw+q7ouU5FJV9snpB5NbQhuKw8M7LZ6vPOdsuZFa+bxGMG1+T+/ficObP8NO8/O7A5fYZRb/6tA6y7DJIkX733bX0n6I/ryGWj38GweUgS3fDUsFHSeJBurGu2sVVSFVHAnqUkRDx8lSwfZzWF3N9rjjkujsMmAz4OKc6LKfYOsAe31y5lSBxkqDEKTNBmy2o++3avPsdQfE68xfAjhnTPzdmMTopGNd/TFJxNpbGRSn/nfbJWdYt1oVPooCj4qkxx2KqMLJaDBJdMSnAxW8UX4vTAKgNZ8UGtKSxwWTv7Od9anGbQdMQ/5Xw+up+lGsxL6tpYB+3H/Cbc39edyWRcXiY0UphoBxbGOx1dub0EFU/LIwA56PIRtunUyohmNI2oxBVs3iC3kVGjrtQlN1AB1WxE/uNIgnFKUdy+oAhD5nIenxGbI+s/hCfgYNI75BU18IocNdWM7ZaT5og2geyTBSQnkRpBUcS1IVNghSsxClYWR8ku9TJYhX0y7o6eaRDcUjFvFjDFDnU14Yk5DkuTwYBzZDDMNBFc/lIgV2y8FYFeTuTpa9yE3B5QEDJ3iIDIYoQXJFIJoCh0W6lTGD3OezIBQNhgxfk9Zkl0B4anTtkCc3Hi3w8RK2Vdq1XKKWj+IFw0gQicfJA8UBLcIQPwdSlbfKhShgbnJ6eFWCuKNyZFuJ2/yyvAeIyVngp5ZIkaNEQ98zWT7H0xjtIGmGoVlKW0YX0qweKZNrGE6jBgAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1616135028731') format('woff'),
+  url('iconfont.ttf?t=1616135028731') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1616135028731#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-favorite-filling:before {
+  content: "\e68a";
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
+
+.icon-fabulous:before {
+  content: "\e66f";
+}
+

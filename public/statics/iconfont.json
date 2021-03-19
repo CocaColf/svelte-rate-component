@@ -1,0 +1,30 @@
+{
+  "id": "2430891",
+  "name": "my_icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838593",
+      "name": "favorite-filling",
+      "font_class": "favorite-filling",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "11372639",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "15838479",
+      "name": "fabulous",
+      "font_class": "fabulous",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
