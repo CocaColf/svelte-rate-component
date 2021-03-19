@@ -2,7 +2,7 @@
 
 This is a Rate component implementation with [Svelte](https://svelte.dev).
 
-![demo image]('./svelte_rate.gif')
+![demo image](https://github.com/CocaColf/svelte-rate-component/blob/main/svelte_rate.gif)
 
 ## How to run
 
